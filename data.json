@@ -1,0 +1,39 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Test comment on post #1",
+      "postId": 1,
+      "user": 1
+    },
+    {
+      "id": 2,
+      "comment": "Test comment on post #1",
+      "postId": 1,
+      "user": 2
+    },
+    {
+      "id": 3,
+      "comment": "Test comment on post #2",
+      "postId": 2,
+      "user": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Anakin",
+      "lastName": "Skywalker"
+    },
+    {
+      "id": 2,
+      "name": "Padme",
+      "lastName": "Amidala"
+    },
+    {
+      "id": 3,
+      "name": "Obi-Wan",
+      "lastName": "Kenobi"
+    }
+  ]
+}
